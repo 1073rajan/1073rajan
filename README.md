@@ -1,3 +1,4 @@
+![logo](https://github.com/1073rajan/1073rajan/blob/main/Img.png)
 <h1 align="center">Hi 👋, I'm Rajan Kumar</h1>
 <h3 align="center">A passionate Data Scientist/Ai\ML Engineer from India</h3> 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
